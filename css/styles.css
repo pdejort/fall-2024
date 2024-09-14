@@ -2,7 +2,10 @@
 @import 'main.css';
 
 .test-font {
-
-color: red;
-
+color: #E46380;
 }
+
+
+.test-font-2 {
+    color: #E46380;
+    }
