@@ -1,0 +1,22 @@
+/* colors */
+
+/*
+60% of #E46380 - Primary
+30% of #E463C1 - Secondary
+10% of #C663E4 - Accent
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor: #E46380; 
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #E463C1; 
+
+/* var(--accentColor) !important; */
+--accentColor: #C663E4; 
+
+
+
+}
