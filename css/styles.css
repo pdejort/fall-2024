@@ -36,8 +36,8 @@ margin=right: auto;
 
 /* Table */
 .content table {
-    boreder-collapse: collapse;
-    max-width: 1000px;
+    border-collapse: collapse;
+   /*max-width: 1000px;*/
     margin: auto;
     text-align: center;
     width: 100%; 
