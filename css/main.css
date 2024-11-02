@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--dominantColor) !important;
+}
+
+.navbar {
+    background-color:var(--secondaryColor) !important; ;
+}
+
+.nav-link {
+    font-size: 20px !important;
+    color: #ffffff !important;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+}
