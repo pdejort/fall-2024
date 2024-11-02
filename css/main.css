@@ -23,3 +23,21 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: underline;
     text-decoration-thickness: 3px;
 }
+
+.footer-row {
+    background-color: var(--dominantColor) !important;
+    padding-top 35px;
+    padding-bottom: 35 px;
+}
+
+.footer-row a {
+    color: #ffffff; 
+    text-deocration: none;
+
+}
+
+.fa-social-media, .fa-social-media a {
+    font-size: 25 px !important;
+    padding-left: 12px;
+    padding-right: 12 px;
+}
