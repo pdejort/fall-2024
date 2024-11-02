@@ -96,3 +96,9 @@ margin=right: auto;
     padding-top: 30px;
     padding-bottom: 30px;
   }
+
+  .list-img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+  }
