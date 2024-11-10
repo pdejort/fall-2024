@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6 {
 .top-logo {
     height: auto;
     font-weight: bolder;
-    color: /* var(--dominantColor) !important;
+    color: var(--dominantColor) !important;
     font-size: 55px;
     padding-top: 40px;
     padding-bottom: 0px;
