@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .material-symbols-outlined, .material-symbols-outlined a {
-        font-size: 60 px;
+        font-size: 60px;
         color: var(--dominantColor) !important;
         position: relative;
         top: 0px; 
