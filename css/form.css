@@ -1,6 +1,7 @@
 .webform {
     position: relative;
     margin: auto;
+    background-color: var(--secondaryColor) !important;
     padding: 30px;
     margin-top: 25px;
     margin-bottom: 25px;
